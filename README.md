@@ -4,7 +4,7 @@
   
   <div id="badges">
   
-  <a href="https://www.linkedin.com/in/nidhi-rathee00">
+  <a href="https://www.linkedin.com/in/nidhi-rathee0">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
@@ -30,7 +30,7 @@ I am a FrontEnd Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :telescope: I’m working as a Teacing Assistant At Coding Ninjas resolving Students Doutes and helping them in their projects
  
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Nidhi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nidhi-rathee00)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Nidhi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nidhi-rathee0)
 
 <hr/>
 
